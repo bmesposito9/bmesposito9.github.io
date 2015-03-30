@@ -1,0 +1,92 @@
+/* my stylesheet */
+
+
+#container {
+  margin: 0 auto;
+  width: 960px;
+  border: 1px solid #222
+  padding: 20px;
+  background: #fff
+}
+
+body{
+  font-family: "Dream Orphans", sans-serif;
+  background-color: rgb(0,0,50);
+  font-size: 16px
+  color: #222
+  line-height: 1px;
+  text-align: center;
+}
+
+div{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
+h1 {
+  margin: 0;
+  }
+
+a {
+  color: rgb(124,202,255);
+}
+
+a:hover {
+  color: rgb(128,214,0);
+}
+
+p {
+  line-height: 1.5;
+  margin: 0;
+  font-family: "Georgia", sans-serif;
+}
+
+div,
+header {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+div,
+skillz {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+div,
+edu {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+div,
+experience {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+div,
+honors {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  padding-bottom: 15px;
+}
