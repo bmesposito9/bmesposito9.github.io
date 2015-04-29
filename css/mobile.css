@@ -1,0 +1,42 @@
+@media (max-width: 320px) {
+
+  body {
+    font-size: 24px;
+  }
+
+  #container {
+    margin: 0;
+    width: 320px;
+    position: relative;
+  }
+  header h1 {
+    font-size: 125%;
+  }
+
+  nav {
+    position: static;
+    margin-bottom: 1em;
+  }
+
+  nav li {
+    margin-right: 1em;
+  }
+
+  #index #wrapper {
+    display: none;
+  }
+
+  #wrapper img {
+    float: none;
+    margin-left: 0;
+    width: 272px;
+  }
+
+  #mobile {
+    background-color: white;
+    overflow: auto;
+    padding: 1em;
+  }
+
+
+}
